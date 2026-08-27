@@ -12,7 +12,7 @@ Technologies Used :
 - Matplotlib
 - Seaborn
 
-Project Workflow
+Project Workflow :
 - Import dataset
 - Explore the dataset
 - Handle missing values
